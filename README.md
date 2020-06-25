@@ -1,2 +1,2 @@
 # Exoplanets_krittika
-Repository to upload all your code and results
+A project to model an exoplanet system as part of the Krittika Summer Projects
